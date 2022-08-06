@@ -38,7 +38,7 @@ const About = () => {
                 <i className="fa-brands fa-linkedin-in"></i> LinkedIn
               </h1>
             </a>
-            <h2>jai-krishna-sing</h2>
+            <h2>jai-krishna-singh</h2>
 
             <br />
             <br />
