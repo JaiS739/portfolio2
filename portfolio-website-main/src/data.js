@@ -83,11 +83,11 @@ export const navigation = [
   },
   {
     name: "education",
-    href: "education",
+    href: "services",
   },
   {
     name: "experience",
-    href: "experience",
+    href: "testimonials",
   },
   {
     name: "contact",
