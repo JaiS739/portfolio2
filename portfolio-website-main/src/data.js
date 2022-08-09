@@ -283,7 +283,7 @@ export const contact = [
     title: "Have a question?",
     subtitle: "I am here to help you.",
     description: "Email me at jksingh00739@gmail.com",
-    rlink: "",
+    // rlink: "#",
   },
   {
     icon: <FiMapPin />,
