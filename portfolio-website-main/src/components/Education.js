@@ -40,7 +40,7 @@ const Education = () => {
           {education.map((service, index) => {
             const { degree, passing, clg, link, img } = service;
             return (
-              <a href={link}>
+              <a href={link} target="_blank">
                 <div
                   className="bg-secondary p-6 rounded-2xl"
                   key={index}
