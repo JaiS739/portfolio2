@@ -3,6 +3,7 @@ import React from "react";
 // import img
 import Image from "../assets/img/about.webp";
 import jaiImage from "../assets/img/jai.png";
+import styles from "../components/about.module.css";
 
 const About = () => {
   return (
@@ -14,7 +15,17 @@ const About = () => {
           // src={jaiImage}
           // alt=""
           /> */}
-          <div className="object-cover h-full w-[566px] md:mx-auto lg:mx-0 rounded-2xl">
+
+          <div
+            // className="object-cover h-full w-[566px] md:mx-auto lg:mx-0 rounded-2xl about_contact"
+
+            // style={{
+            //   display: "flex",
+            //   justifyContent: "center",
+            //   flexDirection: "column",
+            // }}
+            className={styles.about_contact}
+          >
             <h1 style={{}}>
               <i className="fa-solid fa-at"></i> Email{" "}
             </h1>
@@ -27,7 +38,15 @@ const About = () => {
             </h1>
             <h2>9098987322</h2>
           </div>
-          <div className="object-cover h-full w-[566px] md:mx-auto lg:mx-0 rounded-2xl">
+          <div
+            // className="object-cover h-full w-[566px] md:mx-auto lg:mx-0 rounded-2xl"
+            // style={{
+            //   display: "flex",
+            //   justifyContent: "center",
+            //   flexDirection: "column",
+            // }}
+            className={styles.about_contact}
+          >
             <a
               href="https://www.linkedin.com/in/jai-krishna-singh/"
               target={"_blank"}
@@ -53,8 +72,9 @@ const About = () => {
             <h2>JaiS739</h2>
           </div>
 
-          <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
-            <div className="flex flex-col">
+          <div className={styles.about_contact}>
+            {/* <div className="flex flex-col"> */}
+            <div className={styles.about_contact}>
               <h2 className="text-3xl lg:text-4xl font-medium lg:font-extrabold mb-3 before:content-about relative before:absolute before:opacity-40 before:-top-[2rem] before:hidden before:lg:block">
                 Jai Krishna Singh
               </h2>

@@ -28,7 +28,13 @@ const Hero = () => {
               </button>
             </a>
           </div>
-          <div className="hidden lg:flex flex-1 justify-end items-end h-full">
+          <div
+            className=" "
+            style={{
+              display: "flex",
+              alignItem: "center",
+            }}
+          >
             <img src={jaiImage} alt="" />
           </div>
         </div>

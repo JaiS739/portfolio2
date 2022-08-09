@@ -8,7 +8,7 @@ const Skills = () => {
     <section className="bg-tertiary py-12">
       <h1 style={{ textAlign: "center", fontSize: "25px" }}>Tech Skills</h1>
       <div className="container mx-auto">
-        <div className="grid grid-cols-6 md:grid-flow-col">
+        <div className="grid grid-cols-7 md:grid-flow-col">
           {skills.map((skill, index) => {
             return (
               <div className="flex items-center justify-center" key={index}>
