@@ -38,8 +38,8 @@ const projectData = [
     pName: "Amazon Prime Video",
     tech: "HTML || CSS || JavaScript",
     des: "This is the first project of career.",
-    live: "https://legendary-lamington-49dbab.netlify.app/",
-    github: "https://github.com/Deep1897/PRIME-VIDEO",
+    live: "https://mellifluous-kataifi-aeaa10.netlify.app/",
+    github: "https://github.com/JaiS739/amazon_prime",
   },
 ];
 
