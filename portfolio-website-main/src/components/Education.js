@@ -1,6 +1,7 @@
 import React from "react";
 
 import logo from "../assets/img/logo.svg";
+import mditm from "../assets/img/mditm.png";
 
 // import services data
 import { services } from "../data";
@@ -14,7 +15,7 @@ const education = [
     passing: "Aug 2013 - July 2018",
     clg: "Mathura Devi Institution",
     link: "http://www.mathuradevigroupofinstitutions.com/",
-    img: "http://www.mathuradevigroupofinstitutions.com/Images/logo_new.png",
+    img: mditm,
   },
   {
     id: 2,
