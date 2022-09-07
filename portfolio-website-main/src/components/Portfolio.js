@@ -12,7 +12,7 @@ const Portfolio = () => {
             My latest work
           </h2>
           <p className="subtitle">
-            Here are some projects that I have created. Please have a look.
+            Here are some awesome projects. Please have a look.
           </p>
         </div>
         <Projects />

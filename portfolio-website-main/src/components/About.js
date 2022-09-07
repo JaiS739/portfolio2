@@ -81,15 +81,16 @@ const About = () => {
               <p className="mb-4 text-accent">MERN Stack Web Developer</p>
               <hr className="mb-8 opacity-5" />
               <p className="mb-8">
-                I am a MERN FULL STACK DEVELOPER 💻. I specialize in JavaScript.
-                I have in-depth knowledge of HTML, CSS, JavaScript, React.js,
-                and Git. <br />
+                A MERN FULL STACK DEVELOPER 💻. Specializing in JavaScript have
+                in-depth knowledge of HTML, CSS, JavaScript, React.js, Node.js,
+                MongoDB, Express.js and Git. A collaborative team player with
+                excellent technical abilities, <br />
               </p>
             </div>
 
             <div>
               <a
-                href="https://drive.google.com/file/d/1mW9_YjID_0E-jI1XXZiKhgk4oq0Z-pDh/view"
+                href="https://drive.google.com/file/d/1--qNjveJdPpTGGwOs8sYLiQgr3tex7Kz/view"
                 target={"_blank"}
               >
                 {" "}

@@ -56,14 +56,14 @@ export const workE = [
     comp: "Teleperformance",
     job: "Customer Support Executive",
     res: "Sep 2017- Feb 2019",
-    role: "I used to support US customers with their queries and complaints.",
+    role: "Used to support US customers with their queries and complaints.",
   },
   {
     img: continuum,
     comp: "Continuum Global Solutions",
     job: "Senior Intent Analyst",
     res: "Mar 2019- Jan 2022",
-    role: "I used to support Indian customers with their queries regarding our product and help them to understand the different aspects of our product.",
+    role: "Used to support Indian customers with their queries regarding our product and help them to understand the different aspects of our product.",
   },
 ];
 

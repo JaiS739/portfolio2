@@ -12,8 +12,8 @@ const Testimonials = () => {
             My Work Experience
           </h2>
           <p className="subtitle">
-            I have worked with two big BPO companies CRM Services LTD, and
-            Continuum Global Solutions.
+            Worked with two big BPO companies CRM Services LTD, and Continuum
+            Global Solutions.
           </p>
         </div>
         <TestiSlider />
