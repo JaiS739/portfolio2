@@ -90,7 +90,7 @@ const About = () => {
 
             <div>
               <a
-                href="https://drive.google.com/file/d/1--qNjveJdPpTGGwOs8sYLiQgr3tex7Kz/view"
+                href="https://drive.google.com/file/d/1-Hzw5WAAkDAsg9zoNHxzOJv6HzbZgbOT/view?usp=sharing"
                 target={"_blank"}
               >
                 {" "}
